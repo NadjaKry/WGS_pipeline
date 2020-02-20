@@ -7,9 +7,10 @@ mkdir Containers
 cd Containers
 
 singularity pull library://nadjakry/default/spades
-
-
-
+singularity pull library://nadjakry/default/quast
+singularity pull library://nadjakry/default/multiqc
+singularity pull library://nadjakry/default/fastqc
+singularity pull library://nadjakry/default/checkm
 
 cd ..
 
