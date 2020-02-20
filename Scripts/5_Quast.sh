@@ -1,4 +1,4 @@
-###For UBELIX
+###Requirements for server
 #around 1 minute per sample
 
 ###Parameters for run. Change only this section
