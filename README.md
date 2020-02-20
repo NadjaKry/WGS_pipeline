@@ -7,6 +7,8 @@ This pipeline is for bacterial whole genome sequencing (WGS) analysis. It starts
 The pipeline consists of separate scripts, so it is easier to adapt and change.
 The shell scripts are intended as examples and should be edited to provide the right values.
 
+![plan](https://github.com/NadjaKry/WGS_pipeline/raw/master/WGS_Workflow.png)
+
 ## Requirements
 You need to know how to run scripts on Linux server before. On your server of choice Singularity should be installed. You can check it by typing ``` singularity -h ```. No other dependencies are required. You don't need to install anything else. Just download and run the scripts. Don't forget to change the scripts with your file names.
 
