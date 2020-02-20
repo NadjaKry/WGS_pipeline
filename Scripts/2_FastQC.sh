@@ -35,7 +35,7 @@ iR2=${iR1/$FILE_NAME/$FN_2}
 echo -e "\nProcessing sample $iR"
 
 singularity exec Containers/fastqc_0.11.8.sif \
-fastqc -o=R_FastQC -t=2 $iR1 $iR2
+fastqc -o=OUT_FOLDER -t=2 $iR1 $iR2
 
 done
 
