@@ -11,7 +11,7 @@ IN_FOLDER=R_Spades
 
 #Full name of the reference genome of your choice.
 #Quast will compare all assemblies to this genome.
-REFERENCE=GCF_000013425.1_ASM1342v1_genomic.fna.gz
+REFERENCE=Reference_of_your_genome.fna.gz
 ###
 #####
 
